@@ -6,3 +6,4 @@ Nuestro primer repositorio
 ### Contribuidores
 
 Jorge Rubio
+Pepito Perez
