@@ -5,5 +5,5 @@ Nuestro primer repositorio
 
 ### Contribuidores
 
-Jorge Rubio
-Pepito Perez
+* Jorge Rubio
+* Pepito Perez
