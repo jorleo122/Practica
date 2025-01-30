@@ -3,7 +3,7 @@
 Nuestro primer repositorio
 
 
-### Contribuidores
+### Lista de Contribuidores
 
 * Jorge Rubio
 * Pepito Perez
